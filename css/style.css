@@ -196,70 +196,6 @@ body {
   line-height: 17px;
   color: #000000;
 }
-#section1 .cart__zhakyp {
-  display: flex;
-  margin: 30px;
-}
-#section1 .cart__zhakyp__zhakyp0 {
-  width: 254px;
-  height: 71px;
-  font-family: "Inter", sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 40px;
-  line-height: 48px;
-  color: #FFFFFF;
-}
-#section1 .cart__zhakyp__zek {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  width: 337px;
-  height: 525px;
-  margin: 30px;
-  background: rgba(255, 255, 255, 0.87);
-  border-radius: 20px;
-}
-#section1 .cart__zhakyp__zek__zhek1 {
-  width: 263px;
-  height: 263px;
-  border-radius: 131.5px;
-  margin: 20px;
-}
-#section1 .cart__zhakyp__zek__zhek0 {
-  display: flex;
-  flex-direction: column;
-}
-#section1 .cart__zhakyp__zek__zhek0__zhek2 {
-  width: 135px;
-  height: 19px;
-  margin: 20px;
-  font-family: "Inter", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 19px;
-  color: #00193F;
-}
-#section1 .cart__zhakyp__zek__zhek0__zhrk3 {
-  width: 250px;
-  height: 25px;
-  margin: 20px;
-  background: #1743B5;
-  box-shadow: 0 0 0 rgba(0, 0, 0, 0.25);
-  border-radius: 10px;
-}
-#section1 .cart__zhakyp__zek__zhek0__zhek4 {
-  width: 175px;
-  height: 17px;
-  margin: 20px;
-  font-family: "Inter", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 17px;
-  color: #000000;
-}
 
 #section2 .bolum {
   display: flex;
@@ -361,6 +297,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin: 60px;
 }
 .maks__maksat {
   width: 271px;
@@ -657,7 +594,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 }
 .main3__part3__demoor {
   width: 137px;
@@ -671,9 +607,9 @@ body {
 }
 .main3__part3__demoor2 {
   display: flex;
-  flex-direction: row;
+  margin: 30px;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: space-around;
 }
 .main3__part3__demoor2__surot {
   margin-left: 40px;
